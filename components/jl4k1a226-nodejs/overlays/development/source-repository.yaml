@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jl4k1a226-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jl4k1a226-nodejs
